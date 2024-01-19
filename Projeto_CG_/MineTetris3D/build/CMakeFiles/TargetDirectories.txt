@@ -1,0 +1,3 @@
+/home/utilizador/Desktop/3ºAno/Cg/projeto/Tetris3D-master/build/CMakeFiles/Tetris3D.dir
+/home/utilizador/Desktop/3ºAno/Cg/projeto/Tetris3D-master/build/CMakeFiles/edit_cache.dir
+/home/utilizador/Desktop/3ºAno/Cg/projeto/Tetris3D-master/build/CMakeFiles/rebuild_cache.dir

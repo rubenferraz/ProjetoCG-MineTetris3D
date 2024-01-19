@@ -1,0 +1,3 @@
+ir no cd para pasta build
+make
+./Tetris3D
